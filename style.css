@@ -1,0 +1,60 @@
+* {
+    Margin: 0px;
+    Padding: 0px;
+    }
+
+h1{
+    padding-top: 300px;
+}
+
+.first{
+    background-image: url("/tharaka-madhuwantha-_lM8Ic9wz90-unsplash.jpg");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: brown;
+}
+
+.myButton{
+    font-size: 18px;
+    text-decoration: none;
+    color: brown;
+    border: brown 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+        
+
+.second{
+    background-color: brown;
+    text-align: center;
+    padding: 20px 50px 20px 50px;
+}
+
+.third{
+    background-color: oldlace;
+    text-align: center;
+    padding: 20px 50px 20px 50px;
+}
+
+.section-c{
+    display: flex;
+    flex-direction: row;
+}
+
+.fourth{
+    background-color: brown;
+    text-align: center;
+}
+
+.fifth{
+    text-align: center;
+}
+
+.sixth{
+    background-color: brown;
+    text-align: center;
+}
+
